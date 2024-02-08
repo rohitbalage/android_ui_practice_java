@@ -2,6 +2,7 @@ package com.rrbofficial.androiduipractice;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
@@ -30,6 +31,11 @@ public class mysql_login extends AppCompatActivity {
 
         BackgrundWorker backgrundWorker = new BackgrundWorker(this);
         backgrundWorker.execute(type, username, password);
+
+    }
+
+    public void gotoRegisterScreen(View view) {
+        startActivity(new Intent(this,mysql_register.class));
 
     }
 }
