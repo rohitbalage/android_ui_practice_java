@@ -1,4 +1,28 @@
 <resources>
-    <string name="app_name">Android UI practice</string>
-    <string name="headline">ANDROID UI PRACTICE</string>
+    <string name="app_name">Android Practice</string>
+    <string name="headline">DATABASES</string>
+    <string name="actvity_life_cycle">Actvity Life cycle</string>
+    <string name="recycle_view">Recycle View</string>
+    <string name="third_party_libraries">Third party Libraries</string>
+    <string name="widgets">Widgets</string>
+    <string name="internal_storage">Internal Storage</string>
+    <string name="mangodb">MANGODB</string>
+    <string name="firebase">FIREBASE</string>
+    <string name="mysql">MYSQL</string>
+    <string name="ui_designs">UI Designs</string>
+    <string name="google_maps">Google Maps</string>
+    <string name="jsonparsing">jsonparsing</string>
+    <string name="tabs">tabs</string>
+    <string name="button">Button</string>
+    <string name="external_storage">External Storage</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="apis">APIs</string>
+    <string name="volley">Volley</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google">Google</string>
+    <string name="google_maps_hed">Google Maps</string>
+    <string name="google_admob">Google Admob</string>
+    <string name="google_wallet">Google Wallet</string>
+    <string name="jetpack_compose">Jetpack Compose</string>
+    <string name="model_view_controller_mvc">Model View Controller(MVC)</string>
 </resources>
