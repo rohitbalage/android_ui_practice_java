@@ -25,4 +25,6 @@
     <string name="google_wallet">Google Wallet</string>
     <string name="jetpack_compose">Jetpack Compose</string>
     <string name="model_view_controller_mvc">Model View Controller(MVC)</string>
+    <string name="live_data">Live data</string>
+
 </resources>

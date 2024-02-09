@@ -46,6 +46,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void goToTabs(View view) {
+        Intent it = new Intent(MainActivity.this, tabs.class);
+        startActivity(it);
     }
 
     public void goToExternalStorage(View view) {

@@ -21,6 +21,7 @@
             android:padding="20dp"
             android:layout_height="wrap_content">
 
+            <!--  DATABASES -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -63,6 +64,7 @@
                     app:layout_constraintVertical_bias="0.078" />
             </LinearLayout>
 
+            <!-- GOOGLE TOOLS -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:id="@+id/googletools"
@@ -105,7 +107,7 @@
 
             </LinearLayout>
 
-
+            <!-- UI DESIGNS -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -196,6 +198,8 @@
                     android:text="@string/jsonparsing" />
             </LinearLayout>
 
+            <!-- APIS -->
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:id="@+id/APIs"
@@ -229,6 +233,8 @@
                     android:text="@string/retrofit" />
             </LinearLayout>
 
+
+            <!-- JETPACK COMPOSE -->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:id="@+id/jetPackCompose"
@@ -251,7 +257,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="@string/volley" />
+                    android:text="Live Data" />
 
                 <Button
                     android:id="@+id/MVC"
