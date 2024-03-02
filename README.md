@@ -1,1 +1,1 @@
-### This repo contains various android UI designs, databases, Jet pack compose, material designs and third party libraries combo.
+### This repo contains various android UI design with Java, databases, Jet pack compose, material designs and third party libraries combo.
